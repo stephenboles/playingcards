@@ -1,0 +1,17 @@
+{
+  "name": "playingcard",
+  "description": "Good times.",
+  "version": "0.0.1",
+  "author": "God",
+  "dependencies": {
+    "grunt": "*"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "grunt-simple-mocha": "*",
+    "mocha": "^1.18.2",
+    "jshint": "*",  
+    "grunt-contrib-jshint": "*",
+    "grunt": "*"
+  }
+}
